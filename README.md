@@ -10,4 +10,7 @@ Start server and watch for changes: ```gulp```
 Buld your website: ```gulp build```
 
 ## Documentation
-_(Coming soon)_
+Used:
+
+- Sass with libsass
+- Swig templates. [Docs](http://paularmstrong.github.io/swig/docs/)
